@@ -1,0 +1,8 @@
+move run_threads to main directory and call it main
+#get rid of things i don't need from this
+#make 3 tkinter balls
+#hook up glow balls to ring values
+#find out ranges of everything that ring can output
+#hook up each thing to color ranges so i can easily try out different combinations
+
+right now work is being down in run_threads
