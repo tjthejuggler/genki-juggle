@@ -6,3 +6,7 @@ move run_threads to main directory and call it main
 #hook up each thing to color ranges so i can easily try out different combinations
 
 right now work is being down in run_threads
+
+gyro 
+	seems to have -+250 range
+	when not moving settles down near 0
