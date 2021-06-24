@@ -1,4 +1,4 @@
-move run_threads to main directory and call it main
+#finish making individual variables like euler pitch
 #get rid of things i don't need from this
 #make 3 tkinter balls
 #hook up glow balls to ring values

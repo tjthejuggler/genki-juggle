@@ -46,12 +46,13 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 		change_real_color(value)    	
 
 	def euler_pitch_var_changed(self, *args):
-		print('eeee',euler_pitch_var.get())
+		print('euler_pitch_var_raw',euler_pitch_var.get())
 		value = min(255,abs(int(float(euler_pitch_var.get())*85)))
-		print('trace', value)
+		print('euler_pitch_var_clean', value)
 		send_color_change('172', value)
 
-
+	gyro_x_var = StringVar()
+	gyro_x_var.trace(mode="w", callback=gyro_x_var_changed)
 	euler_pitch_var = StringVar()
 	euler_pitch_var.trace(mode="w", callback=euler_pitch_var_changed)
 	l = Label(root)
