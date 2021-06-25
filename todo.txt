@@ -7,6 +7,12 @@
 
 right now work is being down in run_threads
 
-gyro 
-	seems to have -+250 range
-	when not moving settles down near 0
+each ball should have it's own var
+	when we get a new set of ring variables, we update each balls_var based on what its connected to
+ball dict should have ip and current current ring_var
+
+
+hook up different colors
+allow for opposites
+color cheange on thresholds
+gradual color changes

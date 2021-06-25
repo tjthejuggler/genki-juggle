@@ -9,9 +9,43 @@ from threading import Thread
 from time import sleep
 from socket import *
 import struct
+import colorsys
+
 
 udp_header = struct.pack("!bIBH", 66, 0, 0, 0)
 s = socket(AF_INET, SOCK_DGRAM)
+
+balls = [
+	{
+		'ip_address':237,
+		'ring_attribute':'accel_x'
+	},
+	{
+		'ip_address':19,
+		'ring_attribute':'accel_x'
+	},
+	{
+		'ip_address':85,
+		'ring_attribute':'accel_x'
+	}
+]
+
+# 'gyro_x':float(all_ring_data[-1].gyro.x),
+# 'gyro_y':float(all_ring_data[-1].gyro.y),
+# 'gyro_z':float(all_ring_data[-1].gyro.z),
+# 'accel_x':float(all_ring_data[-1].accel.x)*255,
+# 'accel_y':float(all_ring_data[-1].accel.y)*255,
+# 'accel_z':float(all_ring_data[-1].accel.z)*255,
+# 'raw_pose_x':float(all_ring_data[-1].raw_pose.x)*255,
+# 'raw_pose_y':float(all_ring_data[-1].raw_pose.y)*255,
+# 'raw_pose_z':float(all_ring_data[-1].raw_pose.z)*255,
+# 'current_pose_x':float(all_ring_data[-1].current_pose.x),
+# 'current_pose_y':float(all_ring_data[-1].current_pose.y),
+# 'current_pose_z':float(all_ring_data[-1].current_pose.z),
+# 'euler_roll':float(all_ring_data[-1].euler.roll)*127,
+# 'euler_pitch':float(all_ring_data[-1].euler.pitch)*127,
+# 'euler_yaw':float(all_ring_data[-1].euler.yaw)*127
+
 
 class Sleeper:
 	def __init__(self, sleep_for_x_seconds: float):
@@ -38,23 +72,55 @@ def change_virtual_color(color):
 def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_data_every_x_seconds: float):
 	root = Tk()
 
-	def send_color_change(value, *args):
-		my_but['text'] = value
-		rgb = (value, 255-value, 0)
+	def hsv2rgb(h,s,v):
+		return tuple(round(i * 255) for i in colorsys.hsv_to_rgb(h,s,v))
+
+	def send_color_change(index, ipnumber, value, *args):
+		ball_but[index]['text'] = value
+		# if index == 0:
+		# 	rgb = (value, 255-value, 0)
+		# if index == 1:
+		# 	rgb = (value, 0, 255-value)
+		# if index == 2:
+		# 	rgb = (0, value, 255-value)
+		rgb = hsv2rgb(value,1,1)
 		hex_code = '#{:02x}{:02x}{:02x}'.format(*rgb)
-		my_but['bg'] = hex_code
-		change_real_color(value)    	
+		ball_but[index]['bg'] = hex_code
+		change_real_color(index, ipnumber, rgb)    	
 
-	def euler_pitch_var_changed(self, *args):
-		print('euler_pitch_var_raw',euler_pitch_var.get())
-		value = min(255,abs(int(float(euler_pitch_var.get())*85)))
-		print('euler_pitch_var_clean', value)
-		send_color_change('172', value)
+	def ball_0_var_changed(self, *args):
+		#print('ball_0_var_raw',ball_0_var.get())
+		clean_value = min(255,abs(float(ball_0_var.get())))
+		#print('ball_0_var_clean', clean_value)
+		send_color_change(0,balls[0]['ip_address'], clean_value)
 
-	gyro_x_var = StringVar()
-	gyro_x_var.trace(mode="w", callback=gyro_x_var_changed)
-	euler_pitch_var = StringVar()
-	euler_pitch_var.trace(mode="w", callback=euler_pitch_var_changed)
+	def ball_1_var_changed(self, *args):
+		#print('ball_1_var_raw',ball_1_var.get())
+		clean_value = min(255,abs(float(ball_1_var.get())))
+		#print('ball_1_var_clean', clean_value)
+		send_color_change(1,balls[1]['ip_address'], clean_value)
+
+	def ball_2_var_changed(self, *args):
+		#print('ball_2_var_raw',ball_2_var.get())
+		clean_value = min(255,abs(float(ball_2_var.get())))
+		#print('ball_2_var_clean', clean_value)
+		send_color_change(2,balls[2]['ip_address'], clean_value)
+
+	# ball_string_vars = []
+	# for i in range(balls):
+	# 	this_var = StringVar()
+	# 	this_var.trace(mode="w", callback=gyro_x_var_changed)
+	# 	ball_string_vars.append(var)
+
+	ball_0_var = StringVar()
+	ball_0_var.trace(mode="w", callback=ball_0_var_changed)	
+
+	ball_1_var = StringVar()
+	ball_1_var.trace(mode="w", callback=ball_1_var_changed)	
+
+	ball_2_var = StringVar()
+	ball_2_var.trace(mode="w", callback=ball_2_var_changed)	
+
 	l = Label(root)
 	l.pack()
 	e = Entry(root)
@@ -63,49 +129,66 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 	def submit():
 		l.configure(text = e.get())
 
-	my_but = Button(text='',command=submit)
-	my_but.pack()
+	ball_but = []
 
-	def change_real_color(ipnumber, value):
+	ball_but.append(Button(text='',command=submit))
+	ball_but[0].pack()
+	ball_but.append(Button(text='',command=submit))
+	ball_but[1].pack()
+	ball_but.append(Button(text='',command=submit))
+	ball_but[2].pack()
+
+	def change_real_color(index, ipnumber, rgb):
 		#rgb = tuple(int(color.lstrip('#')[i:i+2], 16) for i in (0, 2, 4))
 		#data = struct.pack("!BBBB", 0x0a, rgb[0], rgb[1], rgb[2])
-		data = struct.pack("!BBBB", 0x0a, value, 255-value, 0)
-		s.sendto(udp_header+data, ('192.168.43.' + ipnumber, 41412));
+
+		# if index == 0:
+		# 	data = struct.pack("!BBBB", 0x0a, value, 255-value, 0)
+		# if index == 1:
+		# 	data = struct.pack("!BBBB", 0x0a, value, 0, 255-value)
+		# if index == 2:
+		# 	data = struct.pack("!BBBB", 0x0a, 0, value, 255-value)
+
+		data = struct.pack("!BBBB", 0x0a, rgb[0], rgb[1], rgb[2])
+		s.sendto(udp_header+data, ('192.168.43.' + str(ipnumber), 41412));
 
 	def get_ring_data_thread(arg):
 		s = Sleeper(fetch_data_every_x_seconds)
 		with reader_thread as wave:
 			while True:
-				val = wave.queue.pop_all()
-				if val:
-					# for v in val:
-					#     if isinstance(v, ButtonEvent):
-					#         print('vvvvvvvvvvv',v)
-					# print('gyroX',val[-1].gyro.x)                      #range +-250
-					#print('accelX', val[-1].accel.x)                   #range +- 1.000000
-																		#changes a lot with juggling, but pretty sporadic
-					#print('magX', val[-1].mag.x)                         # getting all 0
-					# print('raw_poseX', val[-1].raw_pose.x)              #range +- 1.000000     --works very nicely
-					#print('current_poseX', val[-1].current_pose.x)    #very similar to raw_pose, cant tell difference
-					#print('eulerRoll', val[-1].euler.roll)              #range +-3.0000000
-																		#smooth, but doesn't change much with juggling
-					print('eulerPitch', val[-1].euler.pitch)          #divide 255 by 1.5 instead of 3*****
-					# print('eulerYaw', val[-1].euler.yaw)              #smooth, changes pretty well with juggling, could probably be 
-																		#modified a bit to make it better
-					# print('linearX', val[-1].linear.x)
+				all_ring_data = wave.queue.pop_all()
+				if all_ring_data:
+					for index, ball_data in enumerate(balls):
+						def get_ring_value(i):
+							switcher = {
+								'gyro_x':float(all_ring_data[-1].gyro.x),
+								'gyro_y':float(all_ring_data[-1].gyro.y),
+								'gyro_z':float(all_ring_data[-1].gyro.z),
+								'accel_x':float(all_ring_data[-1].accel.x),
+								'accel_y':float(all_ring_data[-1].accel.y)*255,
+								'accel_z':float(all_ring_data[-1].accel.z)*255,
+								'raw_pose_x':round(float(all_ring_data[-1].raw_pose.x),3),
+								'raw_pose_y':float(all_ring_data[-1].raw_pose.y)*255,
+								'raw_pose_z':float(all_ring_data[-1].raw_pose.z)*255,
+								'current_pose_x':float(all_ring_data[-1].current_pose.x)*255,
+								'current_pose_y':float(all_ring_data[-1].current_pose.y)*255,
+								'current_pose_z':float(all_ring_data[-1].current_pose.z)*255,
+								'euler_roll':float(all_ring_data[-1].euler.roll)*160,
+								'euler_pitch':float(all_ring_data[-1].euler.pitch)*160,
+								'euler_yaw':float(all_ring_data[-1].euler.yaw)*160
+							}
+							return switcher.get(i,"Invalid value type")
+						value = get_ring_value(ball_data['ring_attribute'])
 
-					#print('val[-1]', val[-1])
-
-					#var.set(val[-1].gyro.x)
-					#var.set(val[-1].accel.x*255)
-					#var.set(val[-1].mag.x*255)
-					#var.set(val[-1].raw_pose.x*255)
-					#var.set(val[-1].current_pose.x*255)
-					#var.set(val[-1].euler.roll*85)
-					euler_pitch_var.set(val[-1].euler.pitch)
-					#var.set(val[-1].euler.yaw*85)
-
-
+						def get_ball_var(i):
+							switcher = {
+								0:ball_0_var,
+								1:ball_1_var,
+								2:ball_2_var
+							}
+							return switcher.get(i,"Invalid index number")
+						this_ball_var = get_ball_var(index)
+						this_ball_var.set(value)
 				s.sleep()
 	thread = Thread(target = get_ring_data_thread, args = (12,))
 	thread.start()
