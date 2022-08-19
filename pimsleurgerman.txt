@@ -1,0 +1,987 @@
+Unit1
+
+Entschuldigen Sie. - excuse me.
+Verstehen Sie Englisch? - Do you understand English?
+Nein, ich verstehe kein Englisch. - No, I understand no English. 
+Ich verstehe ein bisschen Deutsch. - I understand a little German.
+Sind Sie Amerikaner? - Are you American?
+Ja, Amerikaner. - Yes, American.
+Entschuldigen Sie. - excuse me.
+Englisch. - English
+Verstehen Sie? - Do you understand?
+Sie verstehen - You understand.
+Sie verstehen Englisch. - You understand English.
+Verstehen Sie Englisch? - Do you understand English?
+Nein. - no
+Ich. - I
+Ich verstehe. - I understand
+Ich verstehe Englisch. - I understand English.
+Ich verstehe kein Englisch. - I understand no English.
+Deutsch. - German
+Ich verstehe Deutsch. - I understand German.
+Ich verstehe kein Deutsch. - I understand no German.
+Sie verstehen Deutsch. - You understand German.
+Verstehen Sie Deutsch? - Do you understand German?
+Nein, ich verstehe kein Deutsch. - No, I understand no German. 
+Ein bisschen. - A little.
+Nur. - only
+Nur ein bisschen. - Only a little.
+Ich verstehe nur ein bisschen. - I understand only a little. 
+Nur ein bisschen Deutsch. - Only a little German.
+Amerikaner. - American
+Sie sind. - You are
+Sie sind Amerikaner. - You are American.
+Sind Sie Amerikaner? - Are you an American?
+Ja. - yes
+Ja, ein bisschen. - Yes, a little.
+Sie verstehen ein bisschen Deutsch. - You understand a little German.
+Unit2
+Entschuldigen Sie. Verstehen Sie Deutsch? - Excuse me. Do you understand German?
+Ja, ein bisschen. - Yes, a little bit.
+Sind Sie Amerikaner? - Are you American?
+Ja, Amerikaner. Verstehen Sie Englisch? - Yes, American. Do you understand English?
+Nein, ich verstehe kein Englisch. - No, I understand no English.
+Englisch - English
+Deutsch. - German
+Ich verstehe. - I understand
+Ich verstehe Deutsch. - I understand German.
+Verstehen Sie? - Do you understand?
+Verstehen Sie Deutsch? - Do you understand German?
+Verstehen Sie Englisch? - Do you understand English?
+Nein. - no
+Kein Englisch. - no English.
+Ich verstehe kein Englisch. - I understand no English.
+Ich verstehe kein Deutsch. - I understand no German.
+Ich verstehe ein bisschen. - I understand a little.
+Nur ein bisschen. - Only a little.
+Entschuldigen Sie. - excuse me.
+Ein bisschen. - a little.
+Ich verstehe ein bisschen Deutsch. - I understand a little German. 
+Sind Sie Amerikaner? - Are you American?
+Ja, Sie sind Amerikaner. - Yes, you are American.
+Guten Tag. - good day
+Wie? - how?
+Geht es. - goes it
+Wie geht es? - How's it going?
+Ihnen. - to you
+Wie geht es Ihnen? - How are you? 
+Guten Tag, Frau Meier. - good day, Ms. Meier.
+Frau. - Miss
+Frau Meier. - Ms. Meier
+Sehr gut, danke. - Very well, thank you.
+Danke. - thank you.
+Gut. - good, well.
+Sehr. - very
+Herr. - Mister
+Herr Gordon. - Mr. Gordon
+Guten Tag, Herr Gordon. - Hello, Mr. Gordon.
+Sehr gut, Frau Meier. - Very well, Ms. Meier.
+Es geht mir gut. - I'm well, “It goes to me good.”
+Mir. - to me
+Wie geht es Ihnen, Herr Gordon? - How are you, Mr. Gordon? 
+Auf wiedersehen. - goodbye.
+Ich verstehe nicht. - I don't understand.
+Nein, ich verstehe nicht. - No, I don't understand.
+Nein, kein Amerikaner. - No, not an American.
+Auf wiedersehen, Frau Meier. - Goodbye, Ms. Meier.
+Sie verstehen Deutsch. - You understand German.
+Ja, ich verstehe Deutsch. - Yes, I understand German.
+Nicht sehr gut. - not very well.
+Conversation, then reading list.
+Unit3
+Guten Tag, Herr Gordon. Wie geht es Ihnen? - Hello, Mr. Gordon. How are you?
+Sehr gut, Frau Meier. Danke. - Very well, Ms. Meier. Thank you.
+Ah, Sie verstehen Deutsch. - Ah, you understand German. 
+Nur ein bisschen. - Only a little bit.
+Sie sind Amerikaner? - You're American?
+Ja, Amerikaner. - Yes, American.
+Aber Sie verstehen sehr gut Deutsch. - But you understand German very well.
+Nein nein, nicht sehr gut. - No no, not very well.
+Deutsch. - German
+Ich verstehe Deutsch. - I understand German.
+Ein bisschen. - A little.
+Ich verstehe ein bisschen Deutsch. - I understand a little German. 
+Nur ein bisschen. - Only a little.
+Ich verstehe nicht. - I don't understand.
+Entschuldigen Sie, ich verstehe nicht. - Excuse me, I don't understand.
+Wie geht es Ihnen? - How are you?
+Es geht mir gut. - I'm well.
+Danke. - Thank you.
+Guten Tag. - Hello
+Auf wiedersehen. - Goodbye
+Nicht sehr gut. - Not very well/good
+Ich verstehe kein Deutsch. - I understand no German.
+Sind Sie Amerikaner? - Are you an American male?
+Sind Sie Amerikanerin? - Are you an American female?
+Verstehen Sie Deutsch? - Do you understand German?
+Ich verstehe nicht sehr gut. - I don't understand very well. 
+Entschuldigen Sie. - Excuse me.
+Nein. - no
+Sie verstehen kein Englisch. - You understand no English.
+Verstehen Sie nur Deutsch? - Do you understand only German? 
+Nein, es geht mir nicht gut. - No, I'm not well.
+Es geht mir nicht sehr gut. - I'm not very well.
+Geht es Ihnen gut? - Are you well?
+Ja, danke. - Yes, thank you.
+Nein, nicht sehr gut. - No, not very well.
+Ja, ich bin Amerikaner. - Yes, I'm an American.
+Ich bin. - I am.
+Bin. - Am
+Ich bin Amerikaner. - I'm an American male.
+Ich bin Amerikanerin. - I'm an American female.
+Ich bin Deutscher. - I'm German male.
+Sind Sie Deutscher? - Are you German?
+Nein, ich bin Amerikaner. - No, I'm American.
+Sind Sie Deutsche? - Are you German female?
+Ich bin keine Deutsche. - I'm not German.
+Und Sie? - And you?
+Und. - And
+Ich bin Amerikaner, und Sie? - I'm American, and you? 
+Sie sind keine Amerikanerin. - You are not an American. 
+Sie sind kein Amerikaner. - You are not an American.
+Aber. - but
+Aber ich verstehe. - But I understand.
+Aber ich verstehe Deutsch. - But I understand German
+Bitte. - please
+Ich bin kein Amerikaner. - I'm not an American.
+Ja ja. - emphatic ?yes?
+Sie sprechen sehr gut. - You speak very well.
+Unit4
+Entschuldigen Sie. Sind Sie Deutscher? - Excuse me. Are you German?
+Ja, ich bin Deutscher, und Sie? - Yes I'm German,and you? 
+Ich bin Amerikanerin. - I'm an American.
+Aber Sie verstehen Deutsch. - But you understand German. 
+Ach, ich verstehe ein bisschen aber nicht sehr gut. - Ach, I understand a little but not very well.
+Doch. Sie verstehen sehr gut. - You understand very well. 
+Nein nein. Nur ein bisschen. - No no. Only a little bit.
+Guten Tag. - Hello
+Wie geht es Ihnen? - How are you?
+Sehr gut, danke. - Very well thanks.
+Es geht mir gut. - I'm well.
+Und Ihnen? - And you?
+Nicht sehr gut. - Not very well.
+Sehr gut danke, und Ihnen? - Very well thanks, and you? 
+Ich bin Amerikaner. - I'm an American male.
+Ich bin Amerikanerin. - I'm an American female.
+Sie sind Deutsche. - You are German female.
+Und Sie? Sind Sie Amerikaner? - And you? Are you an American? 
+Sind Sie Deutsche? - Are you German?
+Verstehen Sie Englisch? - Do you understand English?
+Nein. - no
+Ich verstehe kein Englisch. - I understand no English.
+Sie verstehen. - You understand.
+Nicht sehr gut. - not very well.
+Ich verstehe Englisch. - I understand English.
+Ich verstehe ein bisschen - I understand a little English.
+Ich verstehe ein bisschen Englisch. - I understand a little English. 
+Ich bin kein Deutscher. - I'm not German.
+Ich bin keine Deutsche. - I'm not German.
+Sie sind kein Amerikaner? - You're not an American?
+Bitte. - please
+Entschuldigen Sie. - Excuse me
+Sie sprechen. - You speak
+Sie sprechen gut. - You speak well.
+Sie sprechen sehr gut. - You speak very well.
+Ich spreche. - I speak.
+Ich spreche nicht gut. - I don't speak well.
+Ich spreche nicht sehr gut. - I don't speak very well.
+Doch. - ?polite contradiction?.
+Sie sprechen gut Deutsch. - You speak German well.
+Und Sie verstehen kein Englisch? - And you don't understand English?
+Sie sprechen kein Englisch? - You understand no English? 
+Ich spreche Englisch. - I speak English.
+Und ich spreche ein bisschen. - And I speak a little.
+Sie sprechen gut Englisch. - You speak English well.
+Doch, ich bin Amerikaner. - I am an American.
+Wo ist die Goethestrasse? - Where is Goethe Street?
+Goethe die Strasse. - the street.
+die Goethestrasse. - Goethe Street.
+die Beethovenstrasse. - Beethoven Street
+Wo? - where?
+Ist. - is
+Wo ist? - Where is?
+Wo ist die Strasse? - Where is the street?
+der Platz. - the square
+der Opernplatz - Opera Square
+Wo ist der Opernplatz? - Where is Opera Square?
+Wo ist der Opernplatz bitte? - Where is Opera Square please? 
+Hier. - here
+Der Opernplatz ist heir. - Opera Square is here.
+Ist die Goethestrasse hier? - Is Goethe Street here?
+Ja, hier. - Yes, here.
+Nein, die Goethestrasse ist nicht heir. - No, Goethe Street is not here.
+Dort drüben. - Over there.
+Die Goethestrasse ist dort drüben. - Goethe Street is over there.
+Die Goethestrasse ist nicht hier. - Goethe Street is not here. 
+Der Opernplatz ist nicht heir. - Opera Square is not here. 
+Der Opernplatz ist dort drüben. - Opera Square is over there.
+Unit5
+Entschuldigen Sie. - excuse me.
+Ja bitte? - Yes?
+Wo ist die Goethestrasse bitte? - Where is Goethe Street please? 
+Die Goethestrasse ist dort drüben.- Goethe over Street there.
+Und Opernplatz? - And Opera Square?
+Der Opernplatz ist heir. - Opera Square is here.
+Und wie geht es Ihnen? - And how are you?
+Mir? Sehr gut danke. Auf wiedersehen. - Me? Very well thank you. Good bye.
+Auf wiedersehen. - Good bye.
+Guten Tag. - Hello.
+Verstehen Sie Englisch? - Do you understand English?
+Ich verstehe ein bisschen. - I understand a little.
+Und ich spreche ein bisschen. - And I speak a little.
+Nur ein bisschen. - Only a little bit.
+Und Sie? - And you?
+Verstehen Sie Deutsch? - Do you understand German?
+Ja, ich verstehe gut Deutsch? - yes, I understand German well. 
+Wie geht es Ihnen? - How are you?
+Die Goethestrasse. - Goethe Street
+Die Strasse. - street
+Der Opernplatz. - Opera Square.
+Der Platz. - square.
+Wo ist der Opernplatz? - Where is Opera Square?
+Entschuldigen Sie, bitte. - Excuse me please.
+Wo ist die Goethestrasse bitte? - Where is Goethe Street please? 
+Hier. - here
+Die Goethestrasse ist hier. - Goethe Street is here.
+Ist die Goethestrasse hier? - Is Goethe Street here?
+Nein, dort drüben. - No, over there.
+Die Goethestrasse ist nicht dort drüben. - Goethe Street is not over there.
+Die Goethestrasse ist nicht hier. - Goethe Street is not here. 
+Aber der Opernplatz ist heir. - But Opera Square is here. 
+Es geht mir gut. - I'm fine.
+Ich verstehe. - I understand.
+Ich verstehe nicht. - I don't understand.
+Nein danke. - No thank you.
+Sehr gut danke. - very well thanks.
+Und wie geht es Ihnen? - And how are you?
+Es geht mir sehr gut. - I'm very well.
+Wo ist der Opernplatz bitte? - Where is Opera Square please? 
+Der Opernplatz ist nicht hier. - Opera Square is not here. 
+Und nicht dort drüben. - And not over there.
+Wo? - Where?
+Ah, sehr gut. - Ah, very well.
+Auf wiedersehen. - Goodbye.
+Mir? Sehr gut. - Me? Very well.
+Mir? Nicht sehr gut. - Me? Not very well.
+Ich weiss es nicht. - I don't know; ?I know it not?
+Ich weiss es. - I know.
+Wo ist die Mozartstrasse bitte? - Where is Mozart Street please? 
+Aber ich weiss es. - But I know.
+Die Mozartstrasse ist dort drüben. - Mozart Street is over there. 
+Sie wissen es. - You know.
+Wissen Sie es? - Do you know?
+Nein, ich weiss es nicht. - No I don't know
+Die Mozartstrasse ist nicht dort drüben. - Mozart Street is not over there.
+Ich möchte. - I would like.
+Sie möchten. - You would like.
+Ich möchte nicht. - I would not like.
+Möchten Sie? - Would you like?
+Sie möchten etwas essen. - You would like to eat something. 
+Essen. - to eat.
+Etwas. - something.
+Möchten Sie etwas essen? - Would you like to eat something? 
+Möchten Sie etwas? - Would you like something?
+Ich möchte essen. - I would like to eat.
+Ja, ich möchte etwas essen. - Yes, I would like to eat something. 
+Ich möchte etwas trinken. - I would like to drink something. 
+Trinken. - to drink.
+Möchten Sie etwas trinken? - Would you like to drink something? 
+Aber ich möchte etwas essen. - But I would like to eat something. 
+Nein danke aber ich möchte etwas essen. - No thank you but I would like to eat something.
+Doch, ich weiss es. - Yes I know.
+Wo möchten Sie essen? - Where would you like to eat?
+Aber ich nicht. - But I don't.
+Unit6
+Guten Tag, Brigete. - Hello, Brigete.
+Guten Tag, Gunter. Wie geht es Ihnen? - Hello, Gunter. How are you?
+Gut danke. Ich möchte etwas essen. Sie auch? - Fine thanks. I would like something to eat. You too?
+Nein, ich möchte nur etwas trinken. - No, I would like only something to drink.
+Wo? Am Opernplatz? - Where? At Opera Square?
+Ja gut. - Yes fine.
+Die Strasse. - street
+Die Goethestrasse. - Goethe Street.
+Entschuldigen Sie. - excuse me.
+Bitte. - please
+Wo ist die Goethestrasse? - Where is Goethe Street?
+Wo ist die Goethestrasse bitte? - Where is Goethe Street please? 
+Und der Opernplatz? - And Opera Square?
+Der Opernplatz ist dort dr ü ben. - Opera Square is over there. 
+Und ist die Goethestrasse hier? - And is Goethe Street here? 
+Nein nicht heir. - No not here.
+Möchten Sie etwas essen? - Would you like to eat something? 
+Ja, ich möchte etwas essen. - Yes, I would like to eat something. 
+Möchten Sie etwas trinken? - Would you like to drink something? 
+Ja, ich möchte etwas trinken. - Yes I would like to drink something. 
+Trinken. - to drink
+Ich möchte. - I would like.
+Nein danke. - No thank you.
+Etwas. - something
+Nein danke aber ich möchte etwas trinken. - No thank you but I would like to drink something.
+Ich weiss es nicht. - I don't know.
+Die Goethestrasse ist nicht hier. - Goethe Street is not here. And nicht dort dr
+üben. - And not down there.
+Wo möchten Sie essen? - Where would you like to eat?
+Sie wissen es nicht? - You don't know?
+Nein, ich weiss es nicht. - No, I don't know.
+Nein danke aber ich möchte etwas essen. - No thank you but I would like to eat something.
+Wo? - Where?
+Sehr gut. - Very well.
+Gut. - Fine
+Bei mir. - At my place.
+Bei Ihnen. - At your place.
+Ich auch. - me too.
+Auch. - too
+Ja, bei Ihnen. - Yes, at your place.
+Ich möchte auch essen. - I would like to eat, too.
+Wann? - When?
+Jetzt. - Now.
+Wann möchten Sie essen? - When would you like to eat? 
+Möchten Sie jetzt essen? - Would you like to eat now?
+Nein, nicht jetzt. - No, not now.
+später. - Later
+Und wann möchten Sie etwas trinken? - And when would you like to drink something?
+Nein, später. - No, later.
+Wann möchten Sie etwas essen? - When would you like to eat something?
+später, bitte. - Later, please.
+Am Opernplatz. - At Opera Square.
+Nicht bei mir? - Not at my place?
+Ja, am Opernplatz. - Yes, at Opera Square.
+Ich möchte auch etwas trinken. - I would also like to drink something.
+Ja, ich auch. - Yes, me too.
+Wann möchten Sie etwas trinken? - When would you like to drink something?
+Nein, jetzt. - No, now.
+Möchten Sie bei mir etwas trinken? - Would you like to drink something at my place?
+Ja, gerne. - Yes, gladly.
+Gerne. - gladly
+Aber ich möchte auch etwas essen. - But I would also like to eat something.
+Ja, später. - Yes, later.
+Ich möchte später essen. - I would like to eat later.
+Wo? Am Opernplatz? - Where? At Opera Square?
+Unit7
+Entschuldigen Sie, Brigete. - Excuse me, Brigete.
+Ja? - Yes?
+Wann möchten Sie etwas essen? Jetzt? - When would you like to eat something? Now?
+Nein nicht jetzt. später bitte. Aber ich möchte jetzt etwas trinken. - No not now. Later please. But I would like to drink something now. 
+Wo? Bei mir? - Where? At my place?
+Ja gerne. - Yes gladly.
+Bei mir - at my place.
+Ich möchte etwas essen. - I would like to eat something. 
+Essen. - to eat
+Etwas essen. - to eat something.
+Ich möchte - I would like.
+Jetzt. - now.
+Möchten Sie etwas trinken? - Would you like to drink something? 
+Nein danke. - No thank you.
+Aber ich möchte etwas essen. - But I would like to eat something. 
+Ich auch. - me too.
+Wann? - When?
+später. - later.
+Wo möchten Sie essen? - Where would you like to eat?
+Möchten Sie hier etwas essen? - Would you like to eat something here?
+Nein nicht heir. - No not here.
+Heir. - here.
+Nicht. - not
+Nicht hier. - not here.
+Wo? - Where?
+Dort drüben? - over there?
+Am Opernplatz? - At Opera Square?
+Nein nicht am Opernplatz. - No not at Opera Square.
+Bei Ihnen. - at your place.
+Gut. - fine; good; okay.
+Nein nicht bei Ihnen. - No not at your place.
+Wo möchten Sie essen? - Where would you like to eat?
+Ich möchte hier essen. - I would like to eat here.
+Ja, sehr gut. - Yes, very good.
+Wann möchten Sie essen? - When would you like to eat? 
+Ja gerne. - Yes gladly.
+Aber nicht jetzt. - But not now.
+Ich auch. - me too.
+Ich möchte etwas trinken. - I would like something to drink.
+Möchten Sie jetzt etwas essen? - Would you like to eat something now?
+Gut. Wann? - ok. When?
+Jetzt bitte. - Now please.
+Nicht am Opernplatz. - Not at Opera Square.
+Etwas. - something.
+Gut, und was möchten Sie trinken? - Fine, and what would you like to drink?
+Aber ich möchte jetzt etwas trinken. - But I would like to drink something now.
+Nein nein. - no no
+Im Restaurant. - In the restaurant.
+Im. - In the
+Was möchten Sie essen? - What would you like to eat?
+Was? - What?
+Was möchten Sie trinken? - What would you like to drink? 
+Wein. - wine.
+Ich möchte Wein trinken. - I would like to drink wine.
+Möchten Sie Wein trinken? - Would you like to drink wine? 
+Bier. - beer
+Ich möchte Bier trinken. - I would like to drink beer.
+Ich möchte Wein. - I would like wine.
+Ich möchte Bier. - I would like beer.
+Ich auch. Ich möchte auch Bier. - Me too. I would also like beer. 
+Wo möchten Sie Bier trinken? - Where would you like to drink beer?
+Im Restaurant bitte. - In the restaurant please.
+Im Restaurant Zum Lowen. - In the restaurant Zum Lowen
+Das Restaurant. - the restaurant.
+Wo ist das Restaurant Zum Lowen? - Where is the restaurant Zum Lowen?
+Das Restaurant ist dort drüben. - The restaurant is over there. 
+In der Goethestrasse. - On Goethe Street.
+Das Restaurant ist in der Goethestrasse. - The restaurant is on Goethe Street.
+Möchten Sie Bier trinken? - Would you like to drink beer? 
+Heir in der Goethestrasse. - Here on Goethe Street.
+Unit8
+Ingrid, möchten Sie jetzt essen? - Ingrid,, would you like to eat now?
+Danke, Peter. Jetzt nicht. Aber ich möchte etwas trinken. - Thank you, Peter. Not now. But I would like something to drink.
+Ja gut. Was möchten Sie trinken? - Yes fine. What would you like to drink?
+Ich möchte Wein trinken. Nein nein, ich trinke ein bier. - I would like to drink wine. No no I'll drink a beer.
+Ich auch. Ich möchte auch ein Bier trinken. Entschuldigen Sie, zwei Bier bitte. Wie bitte? Essen? Nein jetzt nicht. später. - Me too. I would also like to drink a beer. Excuse me, two beers please. What? Eat? No not now. Later.
+Möchten Sie jetzt essen? - Would you like to eat now?
+Ja gerne. - Yes gladly.
+Möchten Sie? - Would you like?
+Möchten Sie essen? - Would you like to eat?
+Wo möchten Sie essen? - Where would you like to eat?
+Im Restaurant? - In the restaurant?
+Nein bei Ihnen. - No at your place.
+Ich auch. - Me too.
+Aber später. - But later.
+Möchten Sie jetzt etwas trinken? - Would you like to drink something now?
+Was möchten Sie trinken? - What would you like to drink?
+Wann möchten Sie etwas trinken? - When would you like to drink something?
+Möchten Sie etwas trinken? - Would you like something to drink? 
+Möchten Sie Bier trinken? - Would you like to drink beer? 
+Ich möchte Wein trinken. - I would like to drink wine.
+Ich möchte. - I would like.
+Ich möchte nicht. - I would not like.
+Kein Bier. - no beer.
+Ich möchte kein Bier. - I would not like beer.
+Nein, kein Bier. - No, no beer.
+Sie auch? - You too?
+Nein danke. - No thank you.
+Ich weiss es nicht. - I don't know.
+Gerne. - gladly
+Ich verstehe nicht. - I don't understand.
+Was möchten Sie essen? - What would you like to eat?
+Ich möchte etwas trinken. - I would like to drink something. 
+Wo? - Where?
+Nein ich möchte jetzt etwas essen. - No I would like to eat something now.
+Ein Bier. - A beer.
+Das Bier. - the beer
+Das Bier ist gut. - The beer is good.
+Möchten Sie ein Bier trinken? - Would you like to drink a beer? 
+Zwei Bier bitte. - Two beers please.
+Zwei. - two.
+Oder. - or
+Möchten Sie ein Bier? - Would you like a beer?
+Oder Wein? - Or wine?
+Ich möchte ein Bier trinken - I would like to drink a beer. 
+Wein oder Bier? - Wine or beer?
+Was möchten Sie machen? - What would you like to do? 
+Machen. - to do.
+Im Hotel. - In the hotel.
+Das Hotel. - the hotel.
+Ich möchte etwas kaufen. - I would like to buy something. 
+Kaufen. - to buy.
+Was möchten Sie kaufen? - What would you like to buy? 
+Mit wem? - With whom?
+Mit. - with
+Wem. - whom
+Mit Ihnen. - With you.
+Etwas kaufen? - To buy something?
+Aber mit wem? - But whom?
+Mit mir? - With me?
+Ja mit Ihnen. - Yes with you.
+Unit9
+Guten Tag, Ingrid. Wie geht es Ihnen? - Hello, Ingrid. How are you?
+Es geht mir gut, Michael. Danke. - I'm fine, Michael. Thank you. 
+Sagen Sie, Ingrid. Was möchten Sie jetzt machen? - Tell me, Ingrid. What would you like to do now?
+Ich? Ich möchte etwas trinken. Und Sie? - Me? I would like to drink something. And you?
+Ich möchte jetzt etwas essen. Möchten Sie mit mir essen? - I would like to eat something now. Would you like to eat with me?
+Ja, aber wo? Im Restaurant Zum Bären?
+- Yes, but where? In the restaurant Zum Bären?
+Wo ist der Restaurant Zum Bären? - Where is the restaurant Zum Bären?
+In der Beethovenstrasse. - On Beethoven street.
+Ah ja. Ich weiss wo das ist. - Oh yeah. I know where that is. 
+Und ich möchte auch ein bisschen Wein trinken. - And I would also like to drink a little wine.
+Ja, gut. Ich auch. - Yes, good. Me too.
+Wie geht es Ihnen? - How are you?
+Verstehen Sie Deutsch? - Do you understand German?
+Wo ist die Goethestrasse? - Where is Goethe street?
+Entschuldigen Sie. - Excuse me.
+Ja? - yes.
+Ja bitte? - Yes, please?
+Wo ist das Restaurant Zum Bären? - Where is the restaurant Zum Bären?
+Wo ist das Restaurant? - Where is the restaurant?
+In der Beethovenstrasse. - On Beethoven street.
+Ich möchte jetzt etwas essen. - I would like to eat something now.
+Möchten Sie auch etwas essen? - Would you like to eat something, too?
+Nein, ich nicht. - No, I don't.
+Etwas. - something.
+Was möchten Sie jetzt machen? - What would you like to do now? 
+Ich möchte etwas kaufen. - I would like to buy something. 
+Wann? - When?
+Und was möchten Sie kaufen? - And what would you like to buy? 
+Ich möchte Wein kaufen. - I'd like to buy wine.
+Mit Ihnen. - With you.
+Mit wem? - With whom?
+Mit mir? - With me?
+Ja, ich möchten mit Ihnen Wein kaufen. - Yes, I'd like to buy wine with you.
+Oder Bier. - Or beer.
+Aber ich möchte mit Ihnen etwas trinken. - But I'd like to drink something with you.
+Aber nicht hier. - But not here.
+Und auch nicht dort drüben im Hotel. - Ands also not over there in the hotel.
+Wo möchten Sie etwas trinken? - Where would you like to drink something?
+Ich möchte bei Ihnen trinken. - I'd like to drink something at your place.
+Aber ich, ich möchte etwas essen. - But me, I'd like to eat something.
+Zwei. - two
+Wo ist das Hotel Zum Bären bitte? - Where to the Zum Bären hotel please?
+Dort drüben in der Beethovenstrasse. - Over there on Beethoven street.
+Möchten Sie mit mir etwas trinken? - Would you like to drink something with me?
+Nein danke. - No thank you.
+Danke. - Thank you.
+Nein danke, nicht jetzt. - No thank you, not now.
+Und auch nicht später. - And also not later.
+Ah, ich verstehe Sie. - Ah, I understand you.
+Sehr gut. Jetzt verstehen Sie. - Very good. Now you understand. 
+Sie möchten mit mir etwas essen. - You would like to eat something with me.
+Im Restaurant. - In the restaurant.
+Sie verstehen nicht. - You understand.
+Was verstehe ich nicht? - What don't I understand?
+Sie verstehen kein Deutsch. - You don't understand German.
+Sagen Sie. - Tell me.
+Nichts. - Nothing.
+Ich möchte jetzt nichts essen. - I would not like to eat anything now.
+Ich möchte nichts essen. - I wouldn?t like to eat anything. 
+Geht das? - Is that okay? Is that possible? Will that be alright? 
+Das geht. - That's alright. That'll work.
+Das. - that
+Sie möchten nichts essen. - You wouldn?t like to eat anything. 
+Um wieviel Uhr? - At what time?
+Uhr. - o'clock; hour
+Wieviel. - how much?
+Um ein Uhr. - At one o'clock.
+Ein Uhr. - one o'clock.
+Neun Uhr. - Nine o'clock.
+Neun. - nine
+Um neun Uhr. - At nine o'clock.
+Acht. - eight
+Acht Uhr. - Eight o'clock.
+Um acht Uhr? - At eight o'clock?
+Nein, um neun Uhr. - No, at nine o'clock.
+Zwei Uhr. - Two o'clock
+Um eins. - At one.
+Um zwei Uhr. - At two o'clock.
+Um ein Uhr oder um zwei Uhr? - At one o'clock or at two o'clock? 
+Ja das geht, aber ich möchte bei Ihnen etwas essen. - Yes that's okay, but I'd like to eat something at your place.
+Um zwei Uhr, geht das? - At two o'clock, is that alright? 
+Ja, das geht. - Yes, that'll work.
+Aber um ein Uhr, geht das? - But at one o'clock, is that okay? 
+Nein das geht nicht. - No that won?t work.
+später, um acht Uhr. - Later, at eight o'clock.
+Nein, nicht um acht Uhr. - No not at eight.
+Oder um nein Uhr? - Or at nine o'clock?
+Sicher nicht. - Certainly not.
+Sie möchten nichts trinken. - You don't want to drink anything. 
+Um acht Uhr oder um neun Uhr? - At eight o'clock or at nine o'clock?
+Nicht um ein Uhr und nicht um zwei Uhr. - Not at one o'clock and not at two o'clock.
+Nicht um acht Uhr und nicht um neun Uhr. - Not at eight o'clock and not at nine o'clock.
+Unit10
+Peter ich möchte mit Ihnen zusammen essen. - Peter, I'd like to eat together with you.
+Gerne aber um wieviel Uhr? Um zwei? - Gladly but at what time? At two?
+Nein nein später, viel später. - No no later, much later.
+Ah, ich verstehe. Um acht Uhr oder um neun Uhr? - Ah, I understand. At eight o'clock or at nine o'clock?
+Ja, um neun Uhr. - Yes, at nine o'clock.
+Also dann bis neun Uhr. Auf wiedersehen. - So then until nine o'clock. Good bye.
+Ich möchte etwas essen. - I'd like to eat something.
+Ich möchte etwas machen. - I'd like to do something.
+Was möchten Sie machen? - What would you like to do? 
+Ich möchte etwas kaufen. - I'd like to buy something.
+Um wieviel Uhr? - At what time?
+Um ein Uhr. - At one o'clock.
+Um eins. - At one.
+Um neun Uhr? - At nine o'clock?
+Nein nein, um acht Uhr. - No no, at eight o'clock.
+Gut, um zwei Uhr. - Fine, at two o'clock.
+Zwei. - two
+Nein, Sie verstehen nicht. - No, you don't understand.
+Was verstehe ich nicht? - What don't I understand?
+Möchten Sie etwas trinken? - Would you like to drink something? 
+Nein danke. - No thank you.
+Nichts. - nothing; not anything.
+Ich möchte nichts trinken. - I would not like to drink anything. 
+Nichts? - nothing?
+Sie möchten nichts trinken? - You would not like to drink anything?
+Nein, aber ich möchte etwas essen. - No, but I would like to eat something.
+Ich verstehe nicht. - I don't understand.
+Oder möchten Sie etwas essen? - Or would you like to eat something?
+Ich möchte etwas essen. - I'd like to eat something.
+Mit mir? - With me?
+Ja bei Ihnen. - Yes, at your place.
+Um wieviel Uhr? - At what time?
+Ich weiss es nicht. - I don't know.
+Aber ich möchte etwas essen. - But I'd like to eat something. 
+Aber nicht jetzt. - But not now.
+Ich möchte später etwas essen. - I'd like to eat something later. 
+Möchten Sie später etwas essen? - Would you like to eat something later?
+Ich möchte essen. - I would like to eat.
+Nein später. - No later.
+Wann? - When?
+Danke ich möchte jetzt etwas essen. - Thank you I'd like to eat something now.
+Wieviel Uhr ist es? - What time is it?
+Es ist. . . - It is. . .
+Es ist neun Uhr. - It is nine o'clock.
+Es ist zwei Uhr. - It is two o'clock.
+Es ist fünf Uhr. - It is five o'clock.
+Es ist drei Uhr. - It is three o'clock.
+Drei. - three
+Es ist vier Uhr. - It is four o'clock.
+Ist es vier Uhr? - Is it four o'clock?
+Nein es ist drei Uhr. - No it is three o'clock.
+Es ist acht Uhr. - It is eight o'clock.
+vier Uhr. - four o'clock
+fünf Uhr. - five o'clock.
+neun Uhr. - nine o'clock.
+drei Uhr. - three o'clock.
+Viel später. - Much later.
+Ich esse jetzt. - I'm going to eat now.
+Ich esse. - I eat; I'm eating; I'm going to eat.
+Sie essen. - You eat, you're eating; you're going to eat?
+Essen Sie jetzt? - Are you going to eat now?
+Ja, ich esse jetzt. - Yes, I'm going to eat now.
+Ich esse um fünf Uhr. - I'm going to eat at five o'clock.
+Essen Sie um fünf Uhr? - Are you going to eat at five o'clock? 
+Ich esse um acht Uhr. - I'm eating at eight o'clock.
+Aber ich trinke etwas. - But I'm going to drink something. 
+Um drei Uhr oder um vier Uhr. - At three o'clock or at four o'clock.
+Ich trinke etwas um neun Uhr. - I'm going to drink something at nine o'clock.
+Wieviel Uhr ist es jetzt? - What time is it now?
+Es ist jetzt ein Uhr. - It is one o'clock now.
+Es ist eins. - It's one.
+Unit11
+Um wieviel Uhr möchten Sie mit mir essen? - At what time would you like to eat with me?
+Um ein Uhr, geht das? - At one o'clock, is that alright?
+Nein, um ein Uhr geht es nicht. Geht es um zwei Uhr? - No at one o'clock doesn't work. Is two o'clock alright?
+Nein, um zwei Uhr geht das nicht. Um drei? - No at two o'clock doesn't work. At three?
+Nein nein, nicht um drei Uhr. Geht es um vier Uhr? - No no, not at three o'clock. Does four o'clock work?
+Nein, um vier Uhr geht das nicht. - No, at o'clock doesn't work.
+Um fünf Uhr? - At five o'clock?
+Nein, viel später bitte. - No, much later please.
+Geht es um acht Uhr? - Does eight o'clock work?
+Nein nicht um acht Uhr. Um neun, geht das? - No, not at eight o'clock. At nine, is that alright?
+Nein, neun Uhr ist zu spät. - No, nine o'clock is too late.
+Ich möchte nicht mit Ihnen essen. - I would not like to eat with you.
+Wieviel Uhr ist es? - What time is it?
+Ich weiss es nicht. - I don't know.
+Doch, ich weiss es. - yes, I know.
+Es ist drei Uhr. - It is three o'clock.
+Es ist fund Uhr. - It is five o'clock.
+Mochten Sie jetzt etwas essen? - Would you like to ear something now?
+Essen Sie jetzt? - Are you going to eat now?
+Nein ich esse später. - No I'm going to eat later.
+Um acht Uhr. - At eight o'clock.
+Ich trinke Wein. - I'm going to drink wine.
+später, viel später. - Later, much later.
+Um neun Uhr. - At nine o'clock.
+Um wieviel Uhr? - At what time?
+Wieviel Uhr ist es jetzt? - What time is it now?
+Es ist jetzt vier Uhr. - It is not four o'clock.
+Ich esse später. - I'm going to eat later.
+Möchten Sie mit mir etwas essen? - Would you like to eat something with me?
+Gerne. Wann? - Gladly. When?
+Wo? - Where?
+Wann, jetzt? - When, now?
+Nein nein, nicht jetzt. - No no, not now.
+Sicher nicht jetzt. - Certainly not now.
+später. - Later.
+Sehr gut. - Very well.
+Ich esse mit Ihnen. - I'm going to eat with you.
+Geht das? - Is that alright?
+Nicht um neun Uhr. - Not at nine o'clock.
+Ich esse jetzt. - I'm going to eat now.
+Nicht jetzt, später. - Not now, later.
+Gut. - Fine.
+Hören Sie zu. - Listen.
+Um sechs Uhr. - At six o'clock.
+Oder um sieben Uhr. - Or at seven o'clock.
+Um sieben Uhr. - At seven o'clock.
+Um sechs Uhr oder um sieben Uhr. - At six o'clock or at seven o'clock.
+Nicht um sechs Uhr. - Not at six o'clock.
+Also dann, um sieben Uhr. - Well then, at seven o'clock. 
+Dann. - then.
+Also dann. - Well then
+Also dann, um acht Uhr. - Well then, at eight o'clock.
+Heute Abend. - This evening.
+Heute. - today.
+Abend. - evening.
+Ich möchte heute Abend mit Ihnen essen. - I would like to eat with you this evening.
+Also dann, um sieben Uhr. - Well then, at seven o'clock. 
+Um zehn Uhr. - At ten o'clock.
+Ich esse heute Abend um zehn Uhr. - I'm going to eat tonight at ten o'clock.
+Um wieviel Uhr heute Abend? - At what time tonight?
+Morgen. - Tomorrow.
+Und Morgen? - And tomorrow.
+Ich esse Morgen mit Ihnen. - I'm going to eat with you tomorrow. 
+Morgen um vier Uhr. - Tomorrow at four o'clock.
+Nein, um sechs Uhr oder um sieben Uhr. - No, at six o'clock or at seven o'clock.
+Also dann, um zehn Uhr. - Well then, at ten o'clock.
+Morgen Abend. - Tomorrow evening.
+Morgen Abend um sieben Uhr. - Tomorrow evening at seven o'clock.
+Nein, um zehn Uhr. - No, at ten o'clock.
+Wiederholen Sie. - repeat.
+Möchten Sie heute mit mir essen? - Would you like to eat with me today?
+Nicht heute, morgen. - Not today, tomorrow.
+Heute und morgen auch. - Today and tomorrow also.
+Es ist zehn Uhr. - It is ten o'clock.
+Ich möchte heute Abend mit Ihnen essen. - I would like to eat with you this evening.
+Nicht heute Abend, morgen Abend. - Not this evening, tomorrow evening.
+Also dann, um acht Uhr bei mir. - Well then, at eight o'clock at my place.
+Wie bitte? - What?; “how please?”
+Bitte wiederholen Sie. - Please repeat.
+Gut, aber hören Sie zu. - Fine, but listen.
+Bis morgen. - Until tomorrow.
+Unit12
+Hallo, Brigete. - Hello, Brigete.
+Ja, ich bin?s. - yes, it's me.
+Hier ist Peter. Wie geht es Ihnen? - This is Peter. How are you? 
+Gut danke. - Fine thanks.
+Sagen Sie, Brigete, möchten Sie heute Abend mit mir essen? - Tell me, Brigete, would you like to eat with me this evening?
+Heute Abend geht das nicht, Peter, aber morgen Abend gerne. - This evening doesn't work, Peter, but tomorrow morning is fine.
+Gut, um wieviel Uhr? Um acht? - Good, at what time? At eight? 
+Das ist sehr spät. - That is very late.
+Also dann um sieben Uhr. - Well then at seven o'clock.
+Ja, das geht. Morgen Abend um sieben Uhr bei Ihnen. - Yes, that works. Tomorrow evening at seven o'clock at your place.
+Auf wiederhören, Brigete. - talk to you later, Brigete.
+Auf wiederhören, Peter. Bis morgen. - Talk to you later, Peter. Until tomorrow.
+Heute Abend. - This evening.
+Morgen Abend. - Tomorrow evening.
+Bis. - Until.
+Bis morgen. - Until tomorrow.
+Bis morgen um sechs Uhr. - Until tomorrow at six o'clock. 
+Bis morgen um acht. - Until tomorrow at eight.
+Wieviel Uhr ist es jetzt? - What time is it now?
+Es ist jetzt zehn Uhr. - It is now ten o'clock.
+Nein es ist vier Uhr. - No it's four o'clock.
+Fünf Uhr. - Five o'clock.
+Ich esse um fünf Uhr. - I'm going to eat at five o'clock.
+Sie essen um fünf? - You're going to eat at five?
+Mit Ihnen. - With you.
+Ich esse mit Ihnen. - I'm going to eat with you.
+Ja, ich möchte auch essen. - Yes, I'd like to eat, too.
+Mochten Sie Wein trinken? - Would you like to drink wine?
+Nein ich möchte ein Bier. - No I'd like a beer.
+Ein Bier. - One beer.
+Heute. - Today.
+Nichts. - nothing.
+Ich trinke nichts. - I'm not drinking anything.
+Sie trinken nichts? - You're drinking nothing?
+Nein, ich trinke heute nichts. - No I'm not drinking anything today. 
+Ich esse heute um drei Uhr. - I'm eating today at three o'clock. 
+Order um zwei Uhr. - Or at two o'clock.
+Gut. - okay.
+Wieviel Uhr ist es? - What time is it?
+Wieviel? - How much?
+Die Strasse. - the street.
+Eine Strasse. - a street.
+Ein bier. - One beer.
+Sechs. - Six.
+Nicht fünf, vier. - Not five, four.
+Verstehen Sie? - Do you understand?
+Ja, ich verstehe. - Yes, I understand.
+Hören Sie jetzt zu. - Listen now.
+Wieviel schulde ich Ihnen? - How much do I owe you?
+Ich schulde. - I owe.
+Ich schulde Ihnen. - I owe you.
+Bitte, wieviel schulde ich Ihnen? - Please, how much do I owe you? 
+Eine Mark. - One mark.
+Wieviel schulde ich Ihnen heute? - How much do I owe you today? 
+Acht Mark. - Eight marks.
+Elf Mark. - Eleven marks.
+Zwölf Mark. - Twelve marks.
+Zwei Mark. - Two marks.
+Dreizehn Mark. - Thirteen marks.
+Sechs Mark. - Six marks.
+Schulde ich Ihnen fünf Mark? - Do I owe you five marks? 
+Nein, vier Mark. - No, four marks.
+Und sieben Mark. - And seven marks.
+Ich schulde Ihnen Dreizehn Mark. - I owe you thirteen marks. 
+Nein nicht dreizehn. - No not thirteen.
+Nicht Dreizehn, zwölf. - Not thirteen, twelve.
+Schulde ich Ihnen zwölf Mark? - Do I owe you twelve Marks? 
+Nein, elf Mark. - No, eleven marks.
+Unit13
+Hallo, ich möchte mit Brigete sprechen, bitte. Ah, Sie sind, Brigete. Guten Tag, hier ist Gunter. - Hello, I would like to speak with Brigete, please. Oh it's you, Brigete. Hello, it's Gunter.
+Guten Tag, Gunter. Wie geht es Ihnen? - Hello, Gunter. How are you?
+Gut, danke. Sagen Sie, Brigete, möchten Sie heute Abend mit mir essen? - Fine, thanks. Tell me, Brigete, would you like to eat with me this evening?
+Das geht nicht, Gunter. Ich esse heute Abend mit Erika. Aber möchten Sie später bei mir etwas trinken? - That doesn't work, Gunter. I'm eating tonight with Erika. But would you like to drink something later at my place?
+Ja gerne, um wieviel Uhr? - Yes gladly, at what time?
+Um neun Uhr. Oder später um zehn Uhr? Geht das? - At nine o'clock. Or later at ten o'clock? Does that work?
+Ja, das geht. Um zehn Uhr bei Ihnen. Auf wiederhören, Brigete. - Yes, that works. At ten o'clock at your place. Talk to you later, Brigete. 
+Bis heute Abend, Gunter. - Until tonight, Gunter.
+Wieviel Uhr ist es, bitte? - What time is it?
+Es ist elf Uhr. - It is eleven o'clock.
+Nein, es ist acht Uhr. - No, it's eight o'clock.
+Wieviel schulde ich Ihnen? - How much do I owe you?
+Dreizehn Mark. - Thirteen marks.
+Nein, zwölf. - No, twelve.
+Zwei order zwölf? - Two twelve?
+Ich verstehe Sie nicht. - I don't understand you.
+Hören Sie zu. - Listen.
+Wiederholen Sie bitte. - Repeat please.
+Wann, heute? - When, today?
+Oder morgen? - Or tomorrow?
+Nicht heute Abend. - Not this evening.
+Morgen Abend. - Tomorrow evening.
+Um wieviel Uhr? - At what time?
+Um sechs Uhr oder um sieben Uhr. - At six o'clock or at seven o'clock.
+Heute? - Today?
+Nicht morgen Abend. - Not tomorrow evening.
+Bis später. - Until later.
+Auf wiedersehen. - Goodbye [not on telephone]
+Guten Tag. - hello; “good day”
+Es geht mir gut. - I'm fine.
+Dreizehn Mark. - Thirteen marks.
+Drei. - Three.
+Zehn. - Ten
+Danke, auf wiedersehen. - Thank you , goodbye.
+Hören Sie bitte zu. - Listen please.
+Ich höre zu. - I'm listening.
+Ich wiederhole. - I'm repeating.
+Ich höre gut zu. - I'm listening well.
+Auf wiederhören. - Goodbye [on the telephone]
+Guten Abend. - good evening.
+Wieviele Mark haben Sie? - How many marks do you have? 
+Sie haben. - You have.
+Wieviele Mark? - How many marks?
+Ich habe. - I have
+Vierzehn. - Fourteen.
+Ich habe vierzehn Mark. - I have fourteen marks.
+Wieviele Dollar haben Sie? - How many dollars do you have? 
+Ich habe vierzehn Dollar. - I have fourteen dollars.
+Ich habe fünfzehn Dollar. - I have fifteen dollars?
+Fünfzehn. - fifteen
+Und vierzehn Dollar. - And fourteen dollars.
+Haben Sie sechzehn Mark? - Do you have sixteen marks? 
+Nein ich habe dreizehn Mark. - No I have thirteen marks. 
+Aber ich habe fünfzehn Dollar. - But I have fifteen dollars.
+Sie haben keine sechzehn Dollar? - You haven't got sixteen dollars?
+Nein, ich habe keine sechzehn Dollar. - No, I haven't got sixteen dollars.
+Sie schulden mir... - You owe me…
+Sie schulden mir fünfzehn Mark. - You owe me fifteen marks. 
+Und in Dollar? - And in dollars?
+In Deutsche Mark. - In German marks; “Deutsche Mark” – Deutsche Mark 
+Die Deutsche Mark. - The Deutsche Mark.
+Vierzehn Deutsche Mark, bitte. - Fourteen German marks, please. 
+Ich habe zehn Dollar. - I have ten dollars.
+Haben Sie fünf Dollar? - Do you have five dollars?
+Ich habe keine sechzehn Deutsche Mark. - No, I haven't got sixteen German marks.
+Ich habe vierzehn Deutsche Mark. - I have fourteen German marks. 
+Aber keine fünfzehn Deutsche Mark. - But not fifteen German marks. 
+Also dann vierzehn Deutsche Mark. - Well then fourteen German marks. 
+Die Verkaüferin. - The saleswoman.
+Mit die Verkaüferin. - With the saleswoman.
+Heir sind zehn Dollar. - Here is ten dollars.
+Unit14
+Entschuldigen Sie. Haben Sie Amerikanische Zigaretten? - Excuse me. Do you have American cigarettes?
+Ja, hier bitte. - Yes, here please.
+Danke. Wieviel schulde ich Ihnen? - Thank you. How much do I owe you?
+Acht Mark, bitte. - Eight marks please.
+Achtzehn Mark für Zigaretten? - Eighteen marks for cigarettes? 
+Nein, acht Mark. Sie schulden mir acht Mark. - No, eight marks. You owe me eight marks.
+Ah jetzt verstehe ich. Hier bitte. Hier sind acht Mark. Vielen Dank. - Ah, now I understand. Here please. Here are eight marks.
+Heir sind dreizehn Mark. - Here are thirteen marks.
+Ich möchte zwölf Mark. - I would like twelve marks.
+Hier sind vierzehn Mark. - Here are fourteen marks.
+Haben Sie eine Mark? - Do you have one mark?
+Mochten Sie eine Mark? - Would you like one mark?
+Ich möchte sechzehn Mark. - I would like sixteen marks. 
+Fünfzehn oder sechzehn Mark. - Fifteen or sixteen marks.
+Wieviele Dollar haben Sie? - How many dollars do you have? 
+Ich habe keine Dollar. - I have no dollars.
+Ich habe Deutsche Mark. - I have German marks.
+Viele Deutsche Mark. - Many German marks.
+Aber ich habe keine Dollar. - But I have no dollars.
+Sie haben keine Dollar? - You haven't any dollars?
+Sie sind kein Amerikaner. - You're not an American.
+Sie sind keine Amerikanerin. - You're not an American. 
+Doch, ich bin Amerikaner. - I am an American.
+Doch, ich bin Amerikanerin. - I am an American.
+Aber keine Deutsche Mark. - But no German marks.
+Gut, hier sind drei Dollar. - Ok, here are three dollars.
+Ich habe Deutsche Mark. - I have German marks.
+Viele Deutsche Mark. - Many German marks.
+Sieben. - seven.
+Und ich habe auch Deutsche Mark. - And I also have German marks.
+Wieviele Deutsche Mark haben Sie? - How many German marks do you have?
+Das Bier. - beer.
+Ich habe kein Bier. - I have no beer.
+Der Wein. - wine.
+Ich möchte etwas trinken. - I would like to drink something. 
+Hier ist ein Bier. - Here's a beer.
+Möchten Sie ein Bier? - Would you like a beer?
+Möchten Sie auch etwas trinken? - Would you also like to drink something?
+Ja, gerne. - Yes, gladly.
+Sechzehn. - sixteen
+Vierzehn. - fourteen.
+Fünfzehn. - fifteen
+Dreizehn. - thirteen.
+Viel. - much; a lot.
+Entschuldigen Sie. - Excuse me.
+Ja, bitte? - yes, please?
+Wo ist die Goethestrasse? - Where is Goethe street?
+Dort drüben? - Over there?
+Oder hier? - or here?
+Die Goethestrasse ist dort dr ü ben. - Goethe street is over there. 
+Und ist der Beethovenplatz auch dort drüben? - And is Beethoven Square also over there?
+Ja, auch dort drüben. - Yes, also over there.
+Ich habe Deutsche Mark aber keine Dollar. - I have German marks but no dollars.
+Wieviele Deutsche Mark möchten Sie? - How many German marks would you like?
+Was machen Sie jetzt? - What are you going to do now?
+Was möchten Sie jetzt machen? - What would you like to do now? 
+Sie haben keine Dollar. - You haven't any dollars.
+Also dann. - Well then.
+Hier sind sechzehn Deutsche Mark. - Here are sixteen German marks.
+Ich habe ein paar Deutsche Mark. - I have a couple of German marks. 
+Ich habe ein paar Dollar. - I have a couple of dollars.
+Geben Sie mir. - Give me.
+Geben. - to give.
+Geben Sie mir ein paar Deutsche Mark. - Give me a couple of marks. 
+Geben Sie mir ein paar Dollar, bitte. - Give me a couple of dollars, please.
+Haben Sie ein paar Deutsche Mark? - Do you have a couple of German marks?
+Ich habe siebzehn Deutsche Mark. - I have seventeen German marks. 
+Siebzehn. - seventeen.
+Achtzehn. - eighteen.
+Neunzehn. - nineteen.
+Ich habe neunzehn Dollar. - I have nineteen dollars.
+Nein, siebzehn. - No, seventeen.
+Geben Sie mir eine Mark. - Give me one mark.
+Ich habe keinen Wein. - I have no wine.
+Sie haben kein Bier und keinen Wein? - You have no beer and no wine?
+Ich habe etwas Bier. - I have some beer.
+Etwas Bier. - Some beer.
+Ich habe noch etwas Bier. - I still have some beer.
+Noch. - still
+Ein paar Mark. - A couple of marks.
+Geben Sie mir jetzt siebzehn Mark. - Give me seventeen marks now.
+Ich möchte noch etwas Wein kaufen. - I would still like to buy some wine.
+Sie haben keinen Wein. - You have no wine.
+Haben Sie ein paar Dollar? - Do you have a couple of dollars? 
+Nein, ich habe keine Dollar. - No, I haven't any dollars.
+Und ein paar Deutsche Mark. - And a couple of German marks. 
+Wieviele? - How many?
+Das ist nicht viel. - That is not much.
+Vielen Dank. - Thanks a lot; thank you very much.
+Bitte, Geben Sie mir fünfzehn Mark. - Please give me fifteen marks.
+Nein, Geben Sie mir siebzehn oder achtzehn Mark. - No, give me seventeen or eighteen marks.
+Haben Sie ein paar Dollar? - Do you have a couple of dollars? 
+Achtzehn oder neunzehn. - Eighteen or nineteen.
+Ich gebe. - I give.
+Ich gebe Ihnen. - I give to you.
+Ich gebe Ihnen zehn Deutsche Mark. - I'm giving you ten German marks. 
+Also dann geben Sie mir ein paar Deutsche Mark bitte. - Well then give me a couple of German marks please.
+Unit15
+Auf wiedersehen, Gunter. Bis später. - Goodbye, Gunter. Until later.
+Auf wiedersehen? Wohin gehen Sie denn, Jane? - Goodbye? Where are you going, Jane?
+Ich? Ich gehe etwas kaufen. - Me? I'm going to buy something. 
+Haben Sie Deutsche Mark? - Do you have German marks?
+Nein, keine Deutsche Mark, aber ich habe ein paar Dollar. - No, no German marks, but I have a couple of dollars.
+Wieviele Dollar haben Sie? - How many dollars do you have? 
+Vierzehn oder fünfzehn. - Fourteen or fifteen.
+Ich gebe Ihnen zehn Mark und fünf Dollar. Hier jetzt haben Sie zehn - I'll give you ten marks and five dollars. Now here you have ten

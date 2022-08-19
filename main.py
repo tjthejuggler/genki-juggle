@@ -11,6 +11,8 @@ from socket import *
 import struct
 import colorsys
 
+#to run it 
+# python3 main.py --ble-address EF:AA:3B:81:E7:D7
 
 udp_header = struct.pack("!bIBH", 66, 0, 0, 0)
 s = socket(AF_INET, SOCK_DGRAM)
@@ -46,7 +48,6 @@ balls = [
 # 'euler_pitch':float(all_ring_data[-1].euler.pitch)*127,
 # 'euler_yaw':float(all_ring_data[-1].euler.yaw)*127
 
-
 class Sleeper:
 	def __init__(self, sleep_for_x_seconds: float):
 		self._last_time = None
@@ -69,6 +70,10 @@ def change_virtual_color(color):
 	canvas.pack(padx=15, anchor = 'w')
 	canvas.create_oval(0, 0, 210, 210, fill = color)
 
+ball_0_history = []
+current_color_index = [0,0,0]
+cycled_colors = [.10,.5,1]
+
 def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_data_every_x_seconds: float):
 	root = Tk()
 
@@ -86,13 +91,31 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 		rgb = hsv2rgb(value,1,1)
 		hex_code = '#{:02x}{:02x}{:02x}'.format(*rgb)
 		ball_but[index]['bg'] = hex_code
-		change_real_color(index, ipnumber, rgb)    	
+		#change_real_color(index, ipnumber, rgb)    	
+	
+	def get_next_color(ball_num):
+		global current_color_index
+		current_color_index[ball_num] += 1
+		if current_color_index[ball_num] > 2:
+			current_color_index[ball_num] = 0
+		return cycled_colors[current_color_index[ball_num]]
 
 	def ball_0_var_changed(self, *args):
 		#print('ball_0_var_raw',ball_0_var.get())
-		clean_value = min(255,abs(float(ball_0_var.get())))
-		#print('ball_0_var_clean', clean_value)
-		send_color_change(0,balls[0]['ip_address'], clean_value)
+		global ball_0_history
+		clean_value = min(1000,abs(float(ball_0_var.get())))
+		#if clean_value > 0:
+			#print('ball_0_var_clean', clean_value)
+		ball_0_history.append(clean_value)
+		ball_0_history = ball_0_history[-6:]
+		print(ball_0_history)
+		#print('a', (ball_0_history[4] - ball_0_history[5])*-1, 'b', abs(ball_0_history[0] - ball_0_history[1]))
+		if (ball_0_history[4] - ball_0_history[5])*-1 > 60 and abs(ball_0_history[0] - ball_0_history[1]) < 40:
+
+		#if clean_value == 255 and ball_0_history.count(255) == 1:
+			print('stomp', ball_0_history[0] - ball_0_history[1])
+			next_color = get_next_color(0)
+			send_color_change(0,balls[0]['ip_address'], next_color)
 
 	def ball_1_var_changed(self, *args):
 		#print('ball_1_var_raw',ball_1_var.get())
@@ -148,7 +171,6 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 		# 	data = struct.pack("!BBBB", 0x0a, value, 0, 255-value)
 		# if index == 2:
 		# 	data = struct.pack("!BBBB", 0x0a, 0, value, 255-value)
-
 		data = struct.pack("!BBBB", 0x0a, rgb[0], rgb[1], rgb[2])
 		s.sendto(udp_header+data, ('192.168.43.' + str(ipnumber), 41412));
 
@@ -164,7 +186,7 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 								'gyro_x':float(all_ring_data[-1].gyro.x),
 								'gyro_y':float(all_ring_data[-1].gyro.y),
 								'gyro_z':float(all_ring_data[-1].gyro.z),
-								'accel_x':float(all_ring_data[-1].accel.x),
+								'accel_x':float(all_ring_data[-1].accel.x)*255,
 								'accel_y':float(all_ring_data[-1].accel.y)*255,
 								'accel_z':float(all_ring_data[-1].accel.z)*255,
 								'raw_pose_x':round(float(all_ring_data[-1].raw_pose.x),3),
@@ -178,7 +200,9 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 								'euler_yaw':float(all_ring_data[-1].euler.yaw)*160
 							}
 							return switcher.get(i,"Invalid value type")
+
 						value = get_ring_value(ball_data['ring_attribute'])
+						#print(get_ring_value('accel_x'), get_ring_value('accel_y'), get_ring_value('accel_z'))
 
 						def get_ball_var(i):
 							switcher = {
@@ -187,9 +211,11 @@ def main(reader_thread: Union[ReaderThreadBluetooth, ReaderThreadSerial], fetch_
 								2:ball_2_var
 							}
 							return switcher.get(i,"Invalid index number")
+
 						this_ball_var = get_ball_var(index)
 						this_ball_var.set(value)
 				s.sleep()
+
 	thread = Thread(target = get_ring_data_thread, args = (12,))
 	thread.start()
 	root.mainloop()
@@ -198,7 +224,7 @@ if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--ble-address", type=str)
 	parser.add_argument("--use-serial", action="store_true")
-	parser.add_argument("--fetch-data-every-x-seconds", type=float, default=.01)
+	parser.add_argument("--fetch-data-every-x-seconds", type=float, default=.05)
 	args = parser.parse_args()
 
 	if args.use_serial:

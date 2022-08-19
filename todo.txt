@@ -16,3 +16,13 @@ hook up different colors
 allow for opposites
 color cheange on thresholds
 gradual color changes
+
+toe
+tapping could skip to next color
+maybe double tap or side tap could enter some sort of color slider thing
+sequences could be set up that colors cycle through with every tap
+
+click
+flat foot tap
+toe down tap
+side flick (either direction)
